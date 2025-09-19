@@ -21,9 +21,14 @@ These marks are clickable and the user can see the Schedule of users that regist
 After the registration info of the user will be on the Schedule. After everything user can click the Profile button on the tab, view and edit the profile.
 The admin can do whatever he wants, edit all the fields, delete them, add new ones, delete users and there is an another tab button for Admin Page.
 
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+![welcomepage](welcomepage.jpg)
+![login](login.jpg)
+![forgotpassword](forgotpassword.jpg)
+![verification](verification.jpg)
+![marks](marks.jpg)
+![field](fielddescription.jpg)
+![review](reviewandgraph.jpg)
+![datetimechoosing](datetimechoosing.jpg)
+![ratings](ratings.jpg)
+![profile](profile.jpg)
+![adminpage](adminpage.jpg)
